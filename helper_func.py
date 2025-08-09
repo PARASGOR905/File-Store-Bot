@@ -16,7 +16,7 @@ from database.database import *
 
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
@@ -38,7 +38,7 @@ async def check_admin(filter, client, update):
 
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
@@ -72,7 +72,7 @@ async def is_subscribed(client, user_id):
 
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
@@ -108,7 +108,7 @@ async def is_sub(client, user_id, channel_id):
         return False
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
@@ -212,7 +212,7 @@ def get_exp_time(seconds):
     return result
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
@@ -236,7 +236,7 @@ admin = filters.create(check_admin)
 #rohit_1888 on Tg :
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #

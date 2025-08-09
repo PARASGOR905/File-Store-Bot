@@ -49,7 +49,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
@@ -157,7 +157,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Ask Doubt on telegram @CineHub_Cinema
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
